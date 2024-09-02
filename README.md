@@ -36,8 +36,7 @@ A manual testing function allows users to input a news article and obtain predic
 Requirements
 Python 3.x
 Libraries: pandas, numpy, seaborn, matplotlib, scikit-learn
-License
-This project is licensed under the MIT License.
+
 
 Acknowledgments
 The project acknowledges the use of the fake and true news datasets.
